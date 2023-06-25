@@ -1,0 +1,14 @@
+
+.form {
+    width: 45%;
+  }
+  .desc {
+    min-height: 80px;
+    max-height: 80px;
+  }
+  .add-btn {
+    display: block;
+    margin-left: 30%;
+    width: 40%;
+  
+  }
